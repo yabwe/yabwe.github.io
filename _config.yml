@@ -1,0 +1,14 @@
+# Site settings
+title: MediumEditor
+baseline: Yet another broken WYSIWYG editor
+email: hi@yabwe.io
+description: > # this means to ignore newlines until "baseurl:"
+  Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yabwe.github.io" # the base hostname & protocol for your site
+twitter_username: mediumeditor
+github_username: yabwe
+
+# Build settings
+markdown: kramdown
+permalink: /:title.html
