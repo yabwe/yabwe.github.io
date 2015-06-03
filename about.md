@@ -21,6 +21,6 @@ This means, we are going to talk about:
  - **directive for the project** when we are not pretty sure how we should handle this kind of new functionnaly
  - **whatever problem we encoured** and how we solved it
 
-To follow this blog you can subscribe to the [rss feed](feed.xml).
+To follow this blog you can subscribe to the [rss feed](/feed.xml).
 
 If you find a typo in our post, you can easily [submit a pull request](https://github.com/yabwe/yabwe.github.io) to fix it ! :)
