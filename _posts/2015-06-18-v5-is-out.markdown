@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "v5, new major release, is out !"
+title:  "v5.0.0, new major release, is out !"
 date:   2015-06-18 09:32:49
 categories: release
 author: Jeremy
 ---
-We are glad to annonce the immediate release of Medium Editor 5.0.0. This is a major release and lots of things moved since the last 4.12.x version.
+We are glad to annonce the immediate release of [MediumEditor 5.0.0](https://github.com/yabwe/medium-editor/releases/tag/5.0.0). This is a major release and lots of things moved since the last 4.12.x version.
 
 This version introduces a significantly simpler system for building custom extensions as well as extending existing buttons and extensions. As part of moving towards this extendable model, there were significant changes to the way options are passed to MediumEditor, as well as the extensions and buttons themselves.
 
@@ -37,7 +37,7 @@ We strongly encourage you to read the [UPGRADE file](https://github.com/yabwe/me
 * Util
   * `getProp`, `derives`, `getSelectionData`, `setObject` & `getObject` are gone
   * `getSelectionRange` & `getSelectionStart` are now in Selection
-  
+
 **Next step is about killing bugs**
 
 Since this major release is out, we are going to focus on fixing issues. As we were working on the v5 we didn't fix as many issues and the number of issues is now approching 100. Our focal point will be resolving as many issues as we can to stabilize MediumEditor.
