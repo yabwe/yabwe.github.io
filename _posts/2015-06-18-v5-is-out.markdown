@@ -40,6 +40,6 @@ We strongly encourage you to read the [UPGRADE file](https://github.com/yabwe/me
   
 **Next step is about killing bugs**
 
-Since this major release is out, we are going to focus on fixing issues. As we were working on the v5 we didn't fix so much issues and the number of issues is now approching 100. Our focal point will be resolving as much issues as we can to stabilize MediumEditor.
+Since this major release is out, we are going to focus on fixing issues. As we were working on the v5 we didn't fix as many issues and the number of issues is now approching 100. Our focal point will be resolving as many issues as we can to stabilize MediumEditor.
 
 Thanks every one for the support and suggestion!
