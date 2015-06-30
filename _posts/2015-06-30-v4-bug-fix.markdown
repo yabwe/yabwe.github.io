@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "v4 isn't dead, we still fix bugs"
+date:   2015-06-30 09:32:49
+categories: internal
+author: Jeremy
+---
+When we released the [v5.0.0](http://yabwe.github.io/v5-is-out.html), we thought it would be a good idea to keep a branch for future fixes on the v4.
+That's why we created the [4.12.x branch](https://github.com/yabwe/medium-editor/tree/4.12.x).
+
+Version 5 is still evolving and new stuff is added in every release, in fact we've already released [5.2.0](https://github.com/yabwe/medium-editor/releases/tag/5.2.0)!.
+However, as we iterate on v5, we also fix bugs that have existed for a few versions and are still present in the latest v4 release. So, time to time, we'll try to
+backport some fix from the v5 into the v4. We'll try to do it every week or two, it will depend on how many fixes we release in the v5.
+
+This week we released [4.12.6](https://github.com/yabwe/medium-editor/releases/tag/4.12.6).
+
+Since we can't really know how many people are still using a v4 of MediumEditor, we don't know how long we'll keep doing that.
+
+Anyway, the migration from v4 to v5 isn't that hard to do. If you didn't use custom extensions or haven't hacked too much into the core, the update should be easy.
+You just need to follow [the upgrade file](https://github.com/yabwe/medium-editor/blob/master/UPGRADE-5.md), which contains all breaking changes in detail.
