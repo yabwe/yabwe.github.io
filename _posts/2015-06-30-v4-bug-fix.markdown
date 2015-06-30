@@ -8,7 +8,9 @@ author: Jeremy
 When we released the [v5.0.0](http://yabwe.github.io/v5-is-out.html), we thought it would be a good idea to keep a branch for future fixes on the v4.
 That's why we created the [4.12.x branch](https://github.com/yabwe/medium-editor/tree/4.12.x).
 
-Version 5 is still evolving and new stuff is added in every release, in fact we've already released [5.2.0](https://github.com/yabwe/medium-editor/releases/tag/4.12.6)!. However, as we iterate on v5, we also fix bugs that have existed for a few versions and are still present in the latest v4 release. So, time to time, we'll try to backport some fix from the v5 into the v4. We'll try to do it every week or two, it will depend on how many fixes we release in the v5.
+Version 5 is still evolving and new stuff is added in every release, in fact we've already released [5.2.0](https://github.com/yabwe/medium-editor/releases/tag/5.2.0)!.
+However, as we iterate on v5, we also fix bugs that have existed for a few versions and are still present in the latest v4 release. So, time to time, we'll try to
+backport some fix from the v5 into the v4. We'll try to do it every week or two, it will depend on how many fixes we release in the v5.
 
 This week we released [4.12.6](https://github.com/yabwe/medium-editor/releases/tag/4.12.6).
 
