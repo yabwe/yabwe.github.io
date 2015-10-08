@@ -8,7 +8,7 @@ permalink: /about/
 
 > Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
-You can find the [repository on Github](https://github.com/yabwe/medium-editor) and there is also a [demo available](https://yabwe.github.io/medium-editor/).
+You can find the [repository on Github](https://github.com/yabwe/medium-editor) and there is also a [demo available](https://yabwe.github.io/medium-editor/demo.html).
 
 # What the purpose of this blog ?
 
